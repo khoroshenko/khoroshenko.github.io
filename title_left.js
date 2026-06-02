@@ -183,8 +183,9 @@
           });
 
           $('.full-start-new__title', render).after(
-            '<div class="original_title" style="margin:10px 0;"><div>'
-            + lines.join('') + '</div></div>'
+            '<div class="original_title" style="margin:20px 0;"><div>'
+            + lines.join('')
+            + '</div></div>'
           );
         }
 
