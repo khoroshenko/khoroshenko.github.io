@@ -183,7 +183,7 @@
           });
 
           $('.full-start-new__title', render).after(
-            '<div class="original_title" style="margin:20px 0;"><div>'
+            '<div class="original_title" style="margin-top: 20px; margin-bottom: 20px;"><div>'
             + lines.join('')
             + '</div></div>'
           );
